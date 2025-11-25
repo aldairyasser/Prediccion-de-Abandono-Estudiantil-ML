@@ -146,6 +146,7 @@ streamlit run app.py
 ---
 
 ## 📂 Estructura del repositorio
+```
 |-- data
 |   |-- raw              <- dataset original
 |   |-- processed        <- dataset transformado
@@ -178,6 +179,7 @@ streamlit run app.py
 |   |-- memoria.md
 |
 |-- README.md
+```
 
 ---
 
