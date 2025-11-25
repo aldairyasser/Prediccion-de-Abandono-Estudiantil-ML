@@ -1,5 +1,4 @@
-# 🧠 Predicción de Abandono Estudiantil — Machine Learning
-
+# 🧠 Predicción de Abandono Estudiantil — ML
 Este proyecto busca predecir si un estudiante universitario abandonará o se graduará, utilizando un dataset real de estudiantes.
 
 El problema tiene impacto directo en retención académica, eficiencia de recursos y bienestar estudiantil.
