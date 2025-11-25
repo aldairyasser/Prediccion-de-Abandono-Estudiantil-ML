@@ -135,9 +135,13 @@ pip install -r requirements.txt
 
 ▶️ 3. Ejecutar Streamlit
 
+Moverte al directorio de la app
+
 ```
 cd app_streamlit
 ```
+
+Ejecutar el Front
 
 ```
 streamlit run app.py
