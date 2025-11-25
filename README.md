@@ -122,7 +122,7 @@ El modelo final se analizó mediante **SHAP (SHapley Additive Explanations):**
 📦 1. Clonar repositorio
 
 ```
-git clone https://github.com/usuario/proyecto-dropout-ML.git
+git clone https://github.com/aldairyasser/Prediccion-de-Abandono-Estudiantil-ML
 ```
 
 🐍 2. Crear entorno
