@@ -5,6 +5,12 @@ El problema tiene impacto directo en retención académica, eficiencia de recurs
 
 ---
 
+## 👨‍💻 Despliegue en web 👩‍💻
+
+https://prediccion-de-abandono-estudiantil.streamlit.app/
+
+---
+
 ## 📌 Descripción del proyecto
 
 El abandono universitario es una de las principales preocupaciones de instituciones educativas, ya que genera:
