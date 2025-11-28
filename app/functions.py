@@ -10,7 +10,7 @@ def config_page():
 def home():
     st.subheader("🎓 Predicción abandono o graduación universitario 📚")
 
-    st.image("./img/ML1.png", use_container_width="auto")
+    st.image("app/img/ML1.png", width="auto")
 
     st.markdown("""
     En este proyecto se desarrolla un **modelo de aprendizaje** capaz de predecir si un estudiante:
@@ -522,7 +522,7 @@ def predi_csv():
                 width=600,
                 height=600
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width=True)
 
             # ============================================================
             # 📊 RESUMEN FINAL PARA NEGOCIO
