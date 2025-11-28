@@ -33,17 +33,17 @@ https://prediccion-de-abandono-estudiantil.streamlit.app/
 
 El abandono universitario es una de las principales preocupaciones de instituciones educativas, ya que genera:
 
-Pérdida de matrícula
+- Pérdida de matrícula
 
-Desmotivación y desgaste emocional
+- Desmotivación y desgaste emocional
 
-Desigualdad en resultados
+- Desigualdad en resultados
 
-Impacto negativo en reputación académica
+- Impacto negativo en reputación académica
 
 Objetivo:
 
-Construir un modelo que identifique alumnos en riesgo de Dropout para aplicar intervención temprana.
+- Construir un modelo que identifique alumnos en riesgo de Dropout para aplicar intervención temprana.
 
 ---
 
